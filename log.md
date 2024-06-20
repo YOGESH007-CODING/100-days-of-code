@@ -19,7 +19,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 20,2024
+### Day 0: June 20,2024
 
 **Today's Progress**: I am starting the roadmap of odin project for becoming a full stack developer.Today i did two 900 rated CP question on codeforces .
 ALso worked on the concepts of quick and merge sort.
@@ -27,3 +27,4 @@ ALso worked on the concepts of quick and merge sort.
 **Thoughts** I've know basic HTML,CSS and JS and working forward to upskill myself.
 
 **Link(s) to work**
+Mine CP profile:(just a begineer)  yogesh_207
