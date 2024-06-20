@@ -21,10 +21,9 @@
 
 ### Day 1: June 20,2024
 
-**Today's Progress**: I am starting the roadmap of odin project for becoming a full stack developer.
+**Today's Progress**: I am starting the roadmap of odin project for becoming a full stack developer.Today i did two 900 rated CP question on codeforces .
+ALso worked on the concepts of quick and merge sort.
 
 **Thoughts** I've know basic HTML,CSS and JS and working forward to upskill myself.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
