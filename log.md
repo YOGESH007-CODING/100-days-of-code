@@ -19,7 +19,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 1: June 20,2024
 
 **Today's Progress**: I am starting the roadmap of odin project for becoming a full stack developer.
 
