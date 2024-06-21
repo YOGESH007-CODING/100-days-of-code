@@ -28,3 +28,8 @@ ALso worked on the concepts of quick and merge sort.
 
 **Link(s) to work**
 Mine CP profile:(just a begineer)  yogesh_207
+
+### Day 1: 21 June,2024
+**Today's Progess**: I have done some work regarding my DSA learning journey learnt quick sort  and leart about SSH , public keys ,git.
+
+**Thoughts** : Keeping a journal of your thought is kinda weird feeling but yet very amusing , I will compelete this 100 days Code challenge.
