@@ -33,3 +33,9 @@ Mine CP profile:(just a begineer)  yogesh_207
 **Today's Progess**: I have done some work regarding my DSA learning journey learnt quick sort  and leart about SSH , public keys ,git.
 
 **Thoughts** : Keeping a journal of your thought is kinda weird feeling but yet very amusing , I will compelete this 100 days Code challenge.
+
+### Day 1: 23 June , 2024
+**Today's Progress**: I have done 2 DSA question one from leetcode(medium) and one from coding ninja(medium). Also gave Codeforces Contest for the first time.
+**Thoughts**: In my opinion I need to divide me time more effectively, such that I could be able to do both DSA and Web Dev.(with one another).Also want to Start AI ML from July but know i won't be very feasible due to such a heavy and hectic work load.
+**Today little task**: Make linkdin profile photo and write about section of your linkdin account.
+
